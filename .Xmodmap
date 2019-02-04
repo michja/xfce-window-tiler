@@ -1,0 +1,9 @@
+keycode  81 = F9 KP_9 KP_Prior KP_9
+keycode  80 = F8 KP_8 KP_Up KP_8
+keycode  79 = F7 KP_7 KP_Home KP_7
+keycode  85 = F6 KP_6 KP_Right KP_6
+keycode  84 = F5 KP_5 KP_Begin KP_5
+keycode  83 = F4 KP_4 KP_Left KP_4
+keycode  89 = F3 KP_3 KP_Next KP_3
+keycode  88 = F2 KP_2 KP_Down KP_2
+keycode  87 = F1 KP_1 KP_End KP_1
